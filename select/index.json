@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "少年よ我に帰れ",
+  "base_artist": "Yakushimaru Etsuko",
+  "createdAt": "2025-12-25T10:00:01.685377Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少年よ我に帰れ",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": true,
+      "path": "select/01_少年よ我に帰れ_YAKUSHIMARU_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "少年よ我に帰れ",
+      "artist": "やくしまるえつこ",
+      "has_synced": true,
+      "path": "select/02_少年よ我に帰れ_やくしまるえつこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少年よ我に帰れ",
+      "artist": "Yakushimaru, Etsuko Metro Orchestra",
+      "has_synced": true,
+      "path": "select/03_少年よ我に帰れ_Yakushimaru,_Etsuko_Metro_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少年よ我に帰れ (off vocal ver.)",
+      "artist": "Yakushimaru, Etsuko Metro Orchestra",
+      "has_synced": false,
+      "path": "select/04_少年よ我に帰れ_(off_vocal_ver.)_Yakushimaru,_Etsuko_Metro_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "少年よ我に帰れ",
+      "artist": "Yakushimaru, Etsuko Metro Orchestra",
+      "has_synced": false,
+      "path": "select/05_少年よ我に帰れ_Yakushimaru,_Etsuko_Metro_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "少年よ我に帰れ",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": true,
+      "path": "select/06_少年よ我に帰れ_YAKUSHIMARU_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "少年よ我に帰れ (Instrumental)",
+      "artist": "やくしまるえつこ",
+      "has_synced": true,
+      "path": "select/07_少年よ我に帰れ_(Instrumental)_やくしまるえつこ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少年よ我に帰れ",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/pl_01_少年よ我に帰れ_やくしまるえつこ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "少年よ我に帰れ",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/pl_02_少年よ我に帰れ_やくしまるえつこ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "少年よ我に帰れ",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/pl_03_少年よ我に帰れ_やくしまるえつこ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "少年よ我に帰れ 輪るピンクドラム",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/pl_04_少年よ我に帰れ_輪るピンクドラム_やくしまるえつこ.txt"
+    }
+  ]
+}
